@@ -94,18 +94,19 @@ a {
           color: white; } }
 
 .masthead {
-  display: table;
-  width: 100%;
-  height: auto;
-  padding: 200px 0;
-  text-align: center;
-  color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
-  background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 200px 0;
+    text-align: center;
+    color: white;
+    /* background: url("../img/intro-bg.jpg") no-repeat bottom center scroll; */
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
   .masthead .intro-body {
     display: table-cell;
     vertical-align: middle; }
@@ -145,13 +146,14 @@ a {
   padding-bottom: 150px; }
 
 .download-section {
-  color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
-  background-color: black;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; }
+    color: white;
+    /*background: url("../img/downloads-bg.jpg") no-repeat center center scroll; */
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 #map {
   width: 100%;
